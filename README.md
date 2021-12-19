@@ -1,3 +1,11 @@
+# Evan's notes
+
+Modified paths to work for Mac OSX, with the expectation that the Mac's
+Java 1.8 contents are copied into this directory by the user
+
+The docker container runs out of the box, but localhost:8080 does not 
+become available...may want to test a different way on mac
+
 # log4j-shell-poc
 A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. <br><br>
 Recently there was a new vulnerability in log4j, a java logging library that is very widely used in the likes of elasticsearch, minecraft and numerous others.
