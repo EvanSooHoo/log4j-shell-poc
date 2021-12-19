@@ -4,7 +4,7 @@ Modified paths to work for Mac OSX, with the expectation that the Mac's
 Java 1.8 contents are copied into this directory by the user
 
 The docker container runs out of the box, but localhost:8080 does not 
-become available...may want to test a different way on mac
+become available...may want to test a different way on mac.
 
 # log4j-shell-poc
 A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. <br><br>
